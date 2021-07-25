@@ -1,7 +1,7 @@
 
 # Hand Gesture Recognition(1st Project)
 
-Started in my 2nd year, this is my first project based on Machine learning done as a part of my summer training program. My project is build on Hand Gesture Recognition. Usually gestures are generally originated from any bodily motion or state, but commonly originate from the face or hand. My project detects four gestures-Victory, Thumb, Fist and Palm. I have used a CNN approach to construct it. 
+Started in my 2nd year, this was my first project based on Machine learning done as a part of my summer training program. My project is build on an emerging topic these days, named as Hand Gesture Recognition. Usually gestures are generally originated from any bodily motion or state, but commonly originate from the face or hand. My project detects four gestures-Victory, Thumb, Fist and Palm. I have used a CNN approach to construct it. 
 
 
 ## Requirements
