@@ -33,9 +33,6 @@ Started in my 2nd year, this was my first project based on Machine learning done
    pip install pandas
 ```
 ```bash
-   pip install keras 
-```
-```bash
    pip install matplotlib
 ```
 ```bash
